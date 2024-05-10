@@ -12,7 +12,7 @@ Here is my [CV](/bzhang_cv.pdf) and [Google Scholar](https://scholar.google.com/
 ## Experience
 
 - SDE intern @ amazon 📦, bad actor disincentives and fraud prevention
-- R&D intern @ avellino lab 🧬, homomorphic encryption for early cancer detection
+- R&D intern @ aionco 🧬, homomorphic encryption for early cancer detection
 - Backend dev & engineering lead @ hack4impact rutgers
 - Teaching assistant, math151
 
