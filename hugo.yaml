@@ -12,14 +12,15 @@ ignoreErrors:
 params:
   noindex: false
   theme:
-    palette: base16-light
+    # palette: gruvbox-light
+    palette: custom-theme
   about:
     title: "@bzhangg(g)"
     description: |-
       computer scientist. (future) optimization researcher.
 
       connect with me below ⬇️
-    logo: 张
+    logo_image: headshot.JPG
   socialLinks:
     - icon: fa-brands fa-github
       title: GitHub
