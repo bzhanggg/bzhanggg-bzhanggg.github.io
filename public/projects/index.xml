@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brian Zhang</title>
-    <link>https://bzhanggg.github.io/</link>
-    <description>Recent content on Brian Zhang</description>
+    <title>Projects on Brian Zhang</title>
+    <link>https://bzhanggg.github.io/projects/</link>
+    <description>Recent content in Projects on Brian Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© [Brian Zhang](https://bzhanggg.github.io)</copyright>
     <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bzhanggg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bzhanggg.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decentralized Optimization for Machine Learning: Distributed Stochastic Gradient Tracking</title>
       <link>https://bzhanggg.github.io/projects/convex_opt_dsgt/</link>
@@ -22,20 +22,6 @@
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://bzhanggg.github.io/projects/cpu_emulator/</guid>
       <description>A basic CPU emulation project I made to refresh my architecture knowledge. The emulator mimics the CPU down to the register level. I aim to have 100% coverage of all legal opcodes, read/write bus callback, and opcode selection via jump table.&#xA;Followed the amazing guide by @javidx9 | Github</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>https://bzhanggg.github.io/pubs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bzhanggg.github.io/pubs/</guid>
-      <description>Currently empty, but won&amp;rsquo;t be for long 😁</description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>https://bzhanggg.github.io/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bzhanggg.github.io/research/</guid>
-      <description>Decentralized optimization for learning over networks We are working on using an iterated regularization parameter for the Distributed Stochastic Gradient Tracking (DSGT) algorithm to reduce the cost of hyperparameter tuning during training of distributed models. We introduce the Iterated-Regularized IR-DSGT algorithm, which acts as a heuristic for the optimal constant regularizer during training. We find that IR-DSGT retains the same convergence rate, up to a constant, as a centralized SGD algorithm.</description>
     </item>
   </channel>
 </rss>

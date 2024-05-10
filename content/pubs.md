@@ -1,9 +1,7 @@
 +++
 aliases = ["pubs"]
 title = "Publications"
-author = "Brian Zhang"
-description = "(*) denotes equal contribution"
-tags = ["index"]
+# description = "(*) denotes equal contribution"
 +++
 
 Currently empty, but won't be for long 😁
