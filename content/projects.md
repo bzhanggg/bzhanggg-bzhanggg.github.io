@@ -1,7 +1,6 @@
 +++
 title = "Projects"
-description = "Distributed Optimization, Machine Learning, & Compilers"
-date = "2024-05-10"
+description = "compilers & architecture"
 +++
 
 Nothing to see here :/
