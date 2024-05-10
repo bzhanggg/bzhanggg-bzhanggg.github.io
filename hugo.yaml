@@ -12,9 +12,9 @@ ignoreErrors:
 params:
   noindex: false
   theme:
-    palette: dracula
+    palette: base16-light
   about:
-    title: Brian Zhang
+    title: "@bzhangg(g)"
     description: |-
       computer scientist. (future) optimization researcher.
 
