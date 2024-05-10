@@ -5,7 +5,22 @@
     <link>https://bzhanggg.github.io/</link>
     <description>Recent content on Brian Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>© [Brian Zhang](https://bzhanggg.github.io)</copyright>
     <atom:link href="https://bzhanggg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://bzhanggg.github.io/projects/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://bzhanggg.github.io/projects/</guid>
+      <description>Nothing to see here :/</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://bzhanggg.github.io/research/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://bzhanggg.github.io/research/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

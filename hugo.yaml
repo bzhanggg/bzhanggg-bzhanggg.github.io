@@ -1,0 +1,55 @@
+baseURL: "https://bzhanggg.github.io"
+theme: risotto
+title: Brian Zhang
+author: Brian Zhang
+copyright: © [Brian Zhang](https://bzhanggg.github.io)
+paginate: 3
+languageCode: en
+DefaultContentLanguage: en
+enableInlineShortcodes: true
+ignoreErrors:
+  - error-remote-getjson
+params:
+  noindex: false
+  theme:
+    palette: dracula
+  about:
+    title: Brian Zhang
+    description: |-
+      computer scientist. (future) optimization researcher.
+
+      connect with me below ⬇️
+    logo: 张
+  socialLinks:
+    - icon: fa-brands fa-github
+      title: GitHub
+      url: https://github.com/bzhanggg
+    - icon: fa-brands fa-linkedin
+      title: LinkedIn
+      url: https://www.linkedin.com/in/bzhangg/
+    - icon: fa-solid fa-envelope
+      title: Email
+      url: mailto:blz19@rutgers.edu
+menu:
+  main:
+    - name: Research
+      pageRef: /research
+      weight: 10
+    - name: Publications
+      pageRef: /pubs
+      weight: 20
+    - name: Projects
+      pageRef: /projects
+      weight: 30
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+    ordered: true
