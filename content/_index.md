@@ -11,7 +11,7 @@ Here is my [CV](/bzhang_cv.pdf) and [Google Scholar](https://scholar.google.com/
 
 ## Experience
 
-- SDE intern @ amazon 📦, remediation of bad orders (2024)
+- SDE intern @ amazon 🚚, remediation of bad orders (2024)
 - SDE intern @ amazon 📦, bad actor disincentives (2023)
 - R&D intern @ aionco 🧬, homomorphic encryption (2022)
 - Backend dev & engineering lead @ hack4impact rutgers
