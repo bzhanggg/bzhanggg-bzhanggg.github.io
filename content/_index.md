@@ -20,4 +20,4 @@ Here is my [CV](/bzhang_cv.pdf) and [Google Scholar](https://scholar.google.com/
 ## Misc
 
 - I am a huge fan of classical music! I was a violinist for the rutgers sinfonia in the 2021-2022 orchestra season. I've compiled my favorite works in a [spotify](https://open.spotify.com/playlist/12aSUDyCQ0FTuh68nw4XcD?si=773cbf61687d4d4c) playlist.
-- I am the treasurer for rutgers olympic weightlifting, the largest USAW collegiate club in the Northeast.
+- I am the treasurer for rutgers olympic weightlifting, the largest usaw collegiate club in the northeast.
